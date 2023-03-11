@@ -1,5 +1,5 @@
 <template>
-    <el-aside width="600px">
+    <el-aside width="500px">
         <Aside00 class="gap"/>
         <Aside01 class="gap"/>
         <Aside02 class="gap"/>
